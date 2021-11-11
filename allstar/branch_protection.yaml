@@ -1,0 +1,5 @@
+optConfig:
+  optOutStrategy: true
+  disableRepoOverride: true
+action: issue
+dismissStale: false

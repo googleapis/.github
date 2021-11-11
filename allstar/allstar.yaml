@@ -1,0 +1,6 @@
+optConfig:
+  disableRepoOverride: true
+  optInRepos:
+  - nodejs-asset
+  - nodejs-bigtable
+  - nodejs-notebooks
