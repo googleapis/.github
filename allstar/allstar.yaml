@@ -2,10 +2,5 @@ optConfig:
   disableRepoOverride: true
   optInRepos:
   - nodejs-asset
-  - nodejs-automl
   - nodejs-bigtable
-  - nodejs-dialogflow
-  - nodejs-firestore
-  - nodejs-logging
   - nodejs-notebooks
-  - nodejs-storage
