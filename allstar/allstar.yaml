@@ -1,6 +1,7 @@
 optConfig:
   disableRepoOverride: true
   optInRepos:
+  - googleapis-gen
   - nodejs-asset
   - nodejs-bigtable
   - nodejs-notebooks
