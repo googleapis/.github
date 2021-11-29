@@ -1,5 +1,10 @@
 optConfig:
   optOutStrategy: true
   disableRepoOverride: true
+  optOutRepos:
+  # Pushed by copybara directly
+  - googleapis
+  # Pushed by Bazel Bot directly
+  - googleapis-gen
 action: issue
 dismissStale: false
