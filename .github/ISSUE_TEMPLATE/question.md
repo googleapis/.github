@@ -1,7 +1,6 @@
 ---
 name: Question
 about: Ask a question
-labels: 'type: question, priority: p3'
 ---
 
 Thanks for stopping by to ask us a question! Please make sure to include:
