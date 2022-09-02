@@ -1,0 +1,16 @@
+action: issue
+optConfig:
+  optOutStrategy: true
+action: issue
+groups:
+  - name: "All repos"
+    rules:
+      - name: "Allow trusted Actions"
+        method: allow
+        priority: medium
+        actions:
+          - name: "actions/*"
+          - name: "JustinBeckwith/linkinator-action"
+      - name: "Deny default"
+        method: deny
+        priority: low
